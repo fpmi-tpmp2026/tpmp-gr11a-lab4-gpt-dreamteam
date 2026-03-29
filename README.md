@@ -15,7 +15,7 @@
 
 ### Установка
 ```bash
-git clone https://github.com/fpmi-tpmp2026/tpmp-gr11a-lab4-gpt-dreamteam
+git clone https://github.com/VerogoR/tpmp-gr11-lab4-GPT-Dreamteam
 cd tpmp-gr11a-lab4-gpt-dreamteam
 mkdir -p build
    g++ -std=c++17 -Wall -Wextra -O2 -I includes src/*.cpp -lsqlite3 -o build/helicopter_app
@@ -42,7 +42,7 @@ mkdir -p build
 - Справка по аргументам: `./build/helicopter_app --help`.
 
 Подробная постановка, глоссарий, требования и схема БД — в [вики репозитория документации](wiki/Home.md) (или в разделе Wiki на GitHub после загрузки страниц).
-
+[Репозиторий с кодом проекта](https://github.com/VerogoR/tpmp-gr11-lab4-GPT-Dreamteam)
 ## Contributing
 Проект выполняется командой **GPT Dreamteam** в рамках ТПМП (гр. 11), лабораторная работа № 4.
 - [Гердий Егор](https://github.com/VerogoR)
